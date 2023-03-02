@@ -1,2 +1,2 @@
-# tv-shiw-app
+# tv-show-app
 A tv show app
