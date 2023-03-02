@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container-fluid {
+    margin: 30px 0px;
+}
+
+.page-controls{
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-controls > button{
+    height: 60px;
+    padding: 0px 30px;
+    font-size: 25px;
+}
+
+button > a {
+    color: blue;
+}
